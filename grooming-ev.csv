@@ -4,7 +4,7 @@ Referencia,Especie,Diada,IR
 "Ahumada,92",A. geoffroyi,m-f,0
 "Ahumada,92",A. geoffroyi,m-f,0
 "Ahumada,92",A. geoffroyi,m-j,0
-"Ahumada,92",A. geoffroyi,m-j,
+"Ahumada,92",A. geoffroyi,m-j,1
 "Ahumada,92",A. geoffroyi,m-j,0
 "Ahumada,92",A. geoffroyi,m-m,0
 "Ahumada,92",A. geoffroyi,m-m,0.5
@@ -25,7 +25,7 @@ Referencia,Especie,Diada,IR
 "Ahumada,92",A. geoffroyi,m-j,0
 "Ahumada,92",A. geoffroyi,f-f,0
 "Ahumada,92",A. geoffroyi,f-f,0
-"Ahumada,92",A. geoffroyi,f-f,1.5
+"Ahumada,92",A. geoffroyi,f-f,0.6666666667
 "Ahumada,92",A. geoffroyi,f-f,0
 "Ahumada,92",A. geoffroyi,f-j,0
 "Ahumada,92",A. geoffroyi,f-j,0
@@ -47,7 +47,7 @@ Referencia,Especie,Diada,IR
 "Ahumada,92",A. geoffroyi,j-j,0
 "Butovskaya,94",Macaca arctoides,m-f,0
 "Butovskaya,94",Macaca arctoides,m-f,0
-"Butovskaya,94",Macaca arctoides,m-f,2
+"Butovskaya,94",Macaca arctoides,m-f,0.5
 "Butovskaya,94",Macaca arctoides,m-f,0.7272727273
 "Butovskaya,94",Macaca arctoides,m-f,0.5
 "Butovskaya,94",Macaca arctoides,m-f,0.3333333333
@@ -68,7 +68,7 @@ Referencia,Especie,Diada,IR
 "Butovskaya,94",Macaca arctoides,f-f,0
 "Butovskaya,94",Macaca arctoides,f-f,0.9565217391
 "Butovskaya,94",Macaca arctoides,f-f,0.6666666667
-"Butovskaya,94",Macaca arctoides,f-f,1.166666667
+"Butovskaya,94",Macaca arctoides,f-f,0.8571428571
 "Butovskaya,94",Macaca arctoides,f-f,0
 "Butovskaya,94",Macaca arctoides,f-f,0
 "Butovskaya,94",Macaca arctoides,f-f,0.5
@@ -199,6 +199,7 @@ Referencia,Especie,Diada,IR
 "Pereira,2019",Mandrillus sphinx,f-f,0.2173913043
 "Pereira,2019",Mandrillus sphinx,f-f,
 "Pereira,2019",Mandrillus sphinx,f-f,0
+"Pereira,2019",Mandrillus sphinx,f-f,
 "Pereira,2019",Mandrillus sphinx,f-f,0.2352941176
 "Izawa,80",Sapajus apella,m-m,
 "Izawa,80",Sapajus apella,m-m,0
@@ -211,14 +212,37 @@ Referencia,Especie,Diada,IR
 "Izawa,80",Sapajus apella,m-j,0.5
 "Izawa,80",Sapajus apella,m-j,0.1290322581
 "Izawa,80",Sapajus apella,m-j,0
+"Izawa,80",Sapajus apella,m-m,
+"Izawa,80",Sapajus apella,m-m,
+"Izawa,80",Sapajus apella,m-m,
+"Izawa,80",Sapajus apella,m-f,
+"Izawa,80",Sapajus apella,m-f,
+"Izawa,80",Sapajus apella,m-f,
+"Izawa,80",Sapajus apella,m-j,
+"Izawa,80",Sapajus apella,m-j,
+"Izawa,80",Sapajus apella,m-j,
+"Izawa,80",Sapajus apella,m-m,
 "Izawa,80",Sapajus apella,m-f,0.5
 "Izawa,80",Sapajus apella,m-f,0
+"Izawa,80",Sapajus apella,mf,
 "Izawa,80",Sapajus apella,m-f,0
+"Izawa,80",Sapajus apella,m-f,
 "Izawa,80",Sapajus apella,m-j,0
+"Izawa,80",Sapajus apella,m-j,0.1071428571
 "Izawa,80",Sapajus apella,m-j,0
+"Izawa,80",Sapajus apella,m-f,
+"Izawa,80",Sapajus apella,m-f,
+"Izawa,80",Sapajus apella,m-f,
+"Izawa,80",Sapajus apella,m-f,
+"Izawa,80",Sapajus apella,m-f,
+"Izawa,80",Sapajus apella,m-j,
+"Izawa,80",Sapajus apella,m-j,
+"Izawa,80",Sapajus apella,m-j,
 "Izawa,80",Sapajus apella,f-f,0.3333333333
 "Izawa,80",Sapajus apella,f-f,0
+"Izawa,80",Sapajus apella,f-f,
 "Izawa,80",Sapajus apella,f-f,0
+"Izawa,80",Sapajus apella,f-j,
 "Izawa,80",Sapajus apella,f-j,0.25
 "Izawa,80",Sapajus apella,f-j,
 "Izawa,80",Sapajus apella,f-f,0
@@ -226,8 +250,10 @@ Referencia,Especie,Diada,IR
 "Izawa,80",Sapajus apella,f-f,0
 "Izawa,80",Sapajus apella,f-f,
 "Izawa,80",Sapajus apella,f-f,0
+"Izawa,80",Sapajus apella,f-f,
 "Izawa,80",Sapajus apella,f-f,0.6666666667
 "Izawa,80",Sapajus apella,f-f,1
+"Izawa,80",Sapajus apella,f-j,
 "Izawa,80",Sapajus apella,f-j,0
 "Izawa,80",Sapajus apella,f-j,0.2
 "Izawa,80",Sapajus apella,f-f,0
@@ -235,6 +261,8 @@ Referencia,Especie,Diada,IR
 "Izawa,80",Sapajus apella,f-j,0
 "Izawa,80",Sapajus apella,f-j,0
 "Izawa,80",Sapajus apella,f-j,0.6666666667
+"Izawa,80",Sapajus apella,f-j,
+"Izawa,80",Sapajus apella,f-j,
 "Izawa,80",Sapajus apella,j-j,0
 "Garcia Chiarello,95",Alouatta guariba,m-f,0
 "Garcia Chiarello,95",Alouatta guariba,f-f,0.5555555556
