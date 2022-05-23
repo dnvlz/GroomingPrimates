@@ -1,2 +1,5 @@
 # GroomingPrimates
-Análisis: índice de reciprocidad de acicalamiento de seis especies de primates
+Índice de reciprocidad de acicalamiento de seis especies de primates.
+
+Proyecto Tesis Zamna Valle
+Análisis en R
