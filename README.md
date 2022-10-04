@@ -6,7 +6,7 @@
 Analysis in R.
 Records:
 * Raw data: **grooming_ev.csv** (IR by events) and **grooming_dur.csv** (IR by duration).
-* Tidy data (*.csv*) and graphs (*.png*): **ir_duration** and **ir_events** (mean and variance of IR using all data) **ir_duration_dyad** and **ir_events_dyad* * (mean and variance of IR separating by dyads —male, female and juvenile—).
+* Tidy data (*.csv*) and graphs (*.png*): **ir_duration** and **ir_events** (mean and variance of IR using all data) **ir_duration_dyad** and **ir_events_dyad** (mean and variance of IR separating by dyads —male, female and juvenile—).
 ## Índice de reciprocidad (IR) de acicalamiento de seis especies de primates.
 ### Zamna Valle, Proyecto Tesis de Maestría PCB.
 ___________________________________________________________________________________________________________________________________
