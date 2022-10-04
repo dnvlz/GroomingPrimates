@@ -4,9 +4,9 @@
 ### Zamna Valle, PCB Master's Thesis Project.
 
 Analysis in R.
-Records:
-* Raw data: **grooming_ev.csv** (IR by events) and **grooming_dur.csv** (IR by duration).
-* Tidy data (*.csv*) and graphs (*.png*): **ir_duration** and **ir_events** (mean and variance of RI using all data) **ir_duration_dyad** and **ir_events_dyad** (mean and variance of IR separating by dyads —male, female and juvenile—).
+Files:
+* Raw data: **grooming_ev.csv** (RI by events) and **grooming_dur.csv** (RI by duration).
+* Tidy data (*.csv*) and graphs (*.png*): **ir_duration** and **ir_events** (mean and variance of RI using all data) **ir_duration_dyad** and **ir_events_dyad** (mean and variance of RI separating by dyads —male, female and juvenile—).
 ___________________________________________________________________________________________________________________________________
 Análisis en R.
 Archivos:
